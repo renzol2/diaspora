@@ -2,7 +2,7 @@
 
 *Diaspora* is an effects-driven, 8-channel fixed media electroacoustic composition featuring samples of the kulintang.
 
-You can listen to *Diaspora* (2023) soon, when I upload a stereo mixdown.
+You can listen to *Diaspora* (2023) on [SoundCloud](https://soundcloud.com/renzomledesma/diaspora) or [Bandcamp](https://renzomledesma.bandcamp.com/track/diaspora).
 
 ## Background
 
