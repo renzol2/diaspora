@@ -1,4 +1,8 @@
-# Diaspora
+# Diaspora (2023)
+
+Diaspora is an effects-driven, 8-channel fixed media electroacoustic composition featuring samples of the kulintang.
+
+You can listen to *Diaspora* (2023) soon, when I upload a stereo mixdown.
 
 ## Background
 
@@ -10,5 +14,7 @@ Different cultures across the Philippines have distinct styles and traditions fo
 
 ## Implementation
 
-The implementation of **Diaspora** involves the triggering of samples determined by Markov systems built from Maguindanaoan kulintang transcriptions recorded by musicologist Dr. Kristina Benitez and kulintang master Prof. Aga Mayo Butocan. I developed the Markov systems using Professor Heinrich Taube’s [musx](https://pypi.org/project/musx/) algorithmic composition software library, with audio processing in [SuperCollider](https://supercollider.github.io/).
+The implementation of **Diaspora** involves the triggering of samples determined by Markov systems built from Maguindanaon kulintang transcriptions recorded by musicologist Dr. Kristina Benitez and kulintang master Prof. Aga Mayo Butocan. I developed the Markov systems using Professor Heinrich Taube’s [`musx`](https://pypi.org/project/musx/) algorithmic composition software library, with audio processing in [SuperCollider](https://supercollider.github.io/).
+
+My work towards integrating kulintang with `musx` began in the fall of 2021 as my final project for MUS 305, a class on algorithmic composition with the `musx` package taught by Professor Heinrich Taube. You can view the original project [here](https://github.com/renzol2/mus305-fall21/tree/master/12_finalproject).
 
